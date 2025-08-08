@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📦 DeliveryTech API
 
 API RESTful desenvolvida com Spring Boot 3 e Java 21 para gerenciar um sistema de delivery completo. Este projeto simula as funcionalidades principais de plataformas como iFood e Uber Eats, incluindo autenticação JWT, cache, monitoramento, CI/CD e muito mais.
@@ -84,3 +85,6 @@ docker-compose up --build
 ## 📬 Contato
 
 [Seu Email] - [LinkedIn] - [GitHub]
+=======
+projeto ifood feito e aprendido através da plataforma fat Escola técnica.
+>>>>>>> 0e88ef38afacece9b11776e1464f876e16022f33
