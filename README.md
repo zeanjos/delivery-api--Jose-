@@ -77,14 +77,3 @@ docker-compose up --build
 - `GET /api/clientes`
 - `POST /api/pedidos`
 
----
-
-
----
-
-## 📬 Contato
-
-[Seu Email] - [LinkedIn] - [GitHub]
-=======
-projeto ifood feito e aprendido através da plataforma fat Escola técnica.
->>>>>>> 0e88ef38afacece9b11776e1464f876e16022f33
